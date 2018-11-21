@@ -1,0 +1,9 @@
+[
+  "material/testing-python-apps/section3/video_code/tests/integration/blog_test.py::BlogTest::test_blog_repr",
+  "material/testing-python-apps/section3/video_code/tests/integration/blog_test.py::BlogTest::test_create_post_in_blog",
+  "material/testing-python-apps/section3/video_code/tests/integration/blog_test.py::BlogTest::test_json_with_posts",
+  "material/testing-python-apps/section3/video_code/tests/unit/blog_test.py::BlogTest::test_create_blog",
+  "material/testing-python-apps/section3/video_code/tests/unit/blog_test.py::BlogTest::test_json_no_posts",
+  "material/testing-python-apps/section3/video_code/tests/unit/post_test.py::PostTest::test_create_post",
+  "material/testing-python-apps/section3/video_code/tests/unit/post_test.py::PostTest::test_json"
+]

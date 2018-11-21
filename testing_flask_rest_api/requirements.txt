@@ -1,0 +1,21 @@
+aniso8601 == 4.0.1
+beautifulsoup4 == 4.5.3
+behave == 1.2.5
+Click == 7.0
+Flask == 1.0.2
+Flask - JWT == 0.3.2
+Flask - RESTful == 0.3.6
+Flask - SQLAlchemy == 2.3.2
+itsdangerous == 1.1.0
+Jinja2 == 2.10
+MarkupSafe == 1.0
+parse == 1.9.0
+parse - type == 0.4.2
+psycopg2 == 2.7.5
+PyJWT == 1.4.2
+pytz == 2018.7
+selenium == 3.4.1
+six == 1.11.0
+SQLAlchemy == 1.2.13
+uWSGI == 2.0.17.1
+Werkzeug == 0.14.1

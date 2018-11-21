@@ -1,0 +1,21 @@
+[
+  "tests/integration/test_blog_integrate.py::BlogTest::test_blog_repr",
+  "tests/integration/test_blog_integrate.py::BlogTest::test_create_post_in_blog",
+  "tests/integration/test_blog_integrate.py::BlogTest::test_json_with_posts",
+  "tests/system/test_app.py::AppTest::test_ask_create_blog",
+  "tests/system/test_app.py::AppTest::test_ask_create_post",
+  "tests/system/test_app.py::AppTest::test_ask_read_blog",
+  "tests/system/test_app.py::AppTest::test_menu_calls_ask_create_post",
+  "tests/system/test_app.py::AppTest::test_menu_calls_ask_read_blogs",
+  "tests/system/test_app.py::AppTest::test_menu_calls_create_blog",
+  "tests/system/test_app.py::AppTest::test_menu_calls_print_blogs",
+  "tests/system/test_app.py::AppTest::test_menu_prints_blogs",
+  "tests/system/test_app.py::AppTest::test_menu_prints_prompt",
+  "tests/system/test_app.py::AppTest::test_print_blogs",
+  "tests/system/test_app.py::AppTest::test_print_post",
+  "tests/system/test_app.py::AppTest::test_print_posts",
+  "tests/unit/test_blog.py::BlogTest::test_create_blog",
+  "tests/unit/test_blog.py::BlogTest::test_json_no_posts",
+  "tests/unit/test_post.py::PostTest::test_create_post",
+  "tests/unit/test_post.py::PostTest::test_json"
+]

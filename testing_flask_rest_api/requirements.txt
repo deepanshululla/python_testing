@@ -18,4 +18,4 @@ selenium == 3.4.1
 six == 1.11.0
 SQLAlchemy == 1.2.13
 uWSGI == 2.0.17.1
-Werkzeug == 0.14.1
+Werkzeug == 0.15.3
